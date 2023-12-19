@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Daoji Li"
 title_separator          : "-"
 name                     : &name "Daoji"
-description              : &description "personal description"
+description              : &description "Statistician and Data Scientist"
 url                      : https://daojicsuf.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "daojicsuf/daojicsuf.github.io"
@@ -80,12 +80,12 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
+  name             : "Daoji Li"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  bio              : "Assistant Professor of Statistics and Data Science at California State University, Fullerton"
+  location         : "Fullerton, CA"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=omriiSYAAAAJ&hl=en"
   email            :
   researchgate     :  "https://www.researchgate.net/profile/Daoji-Li"
