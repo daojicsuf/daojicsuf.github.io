@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Daoji Li's Homepage"
+title: "Bio"
 excerpt: "Short Bio"
 author_profile: true
 redirect_from: 
