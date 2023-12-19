@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Bio"
+title: "Home"
 excerpt: "Short Bio"
 author_profile: true
 redirect_from: 
