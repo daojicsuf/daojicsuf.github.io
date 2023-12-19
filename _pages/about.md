@@ -1,14 +1,16 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
-excerpt: "About me"
+title: "Daoji Li's Homepage"
+excerpt: "Short Bio"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+Daoji Li is an Assistant Professor of Data Science and Statistics in the [Department of Information Systems and Decision Sciences (ISDS)](https://business.fullerton.edu/academics/isds) at [California State University, Fullerton (CSUF)](https://www.fullerton.edu/).  Before joining CSUF, he was Assistant Professor in the [Department of Statistics and Data Science](https://sciences.ucf.edu/statistics/) at [University of Central Florida](https://www.ucf.edu/). Prior to working at UCF, he was as Postdoctoral Research Associate in the [Data Sciences and Operations Department](https://www.marshall.usc.edu/departments/data-sciences-and-operations) at the [University of Southern California](https://www.usc.edu/) working with [Prof. Yingying Fan](https://faculty.marshall.usc.edu/yingying-fan/) and [Prof. Jinchi Lv](https://faculty.marshall.usc.edu/jinchi-lv/). He received his Ph.D. in Statistics from the [University of Manchester](https://www.manchester.ac.uk/) under the supervision of Prof. Jianxin Pan.
+
+
 
 A data-driven personal website
 ======
