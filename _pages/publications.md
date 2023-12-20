@@ -13,7 +13,7 @@ author_profile: true
 
 
 
-[Google Scholar Citations][ORCID][ResearchGate]
+[\[Google Scholar Citations\]](https://scholar.google.com/citations?user=omriiSYAAAAJ&hl=en)[\[ORCID\]](https://orcid.org/0000-0003-0877-6981)[\[ResearchGate\]](https://www.researchgate.net/profile/Daoji-Li)
 
 **Selected Manuscripts**  
 
