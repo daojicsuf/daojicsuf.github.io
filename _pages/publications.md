@@ -54,16 +54,16 @@ author_profile: true
      Computational Statistics & Data Analysis, 160, Article 107243. [\[PDF\]](https://www.dropbox.com/s/2h5dnlmcrznym4h/2021-CSDA-PEER-published.pdf?dl=0)[\[Journal link\]](https://www.dropbox.com/s/2h5dnlmcrznym4h/2021-CSDA-PEER-published.pdf?dl=0)
 
   8. Zheng, Z., Zhu, J., Guo, X., and Li, D. (2018). Recovering the Graphical Structures via Knockoffs. 
-     Procedia Computer Science, 129, Pages 201-207. [\[PDF\]]()[\[Journal link\]]()
+     Procedia Computer Science, 129, Pages 201-207. [\[PDF\]](https://www.dropbox.com/scl/fi/86b5by6i854z88an6tylp/2018-PCS-ZZGL.pdf?rlkey=bgkadujv4hg6iqc3s5svivfcl&dl=0)[\[Journal link\]](https://www.sciencedirect.com/science/article/pii/S1877050918302606)
 
   7. Widjaja, R. F., Panamtash, H., Zhou, Q., and Li, D. (2018). Solar power forecasting with model selection analysis. 
-     Proceedings of 2018 Clemson University Power Systems Conference. DOI: 10.1109/PSC.2018.8664060. [PDF][Journal link]
+     Proceedings of 2018 Clemson University Power Systems Conference. DOI: 10.1109/PSC.2018.8664060. [\[PDF\]](https://www.dropbox.com/scl/fi/ab1ljenzuv40t6hum6ln8/2018-PSC-WPZL.pdf?rlkey=xukya077dobhwjpwz5fgjq41g&dl=0)[\[Journal link\]](https://ieeexplore.ieee.org/document/8664060)
 
   6. Gu, H., Li, D., Liu, C., and Rao, Z. (2018). %ggBaseline: a SAS macro for analyzing and reporting baseline characteristics
-     automatically in medical research.  Annals of Translational Medicine, 6(16), 326. [PDF][Journal link]
-
+     automatically in medical research.  Annals of Translational Medicine, 6(16), 326. [\[PDF\]](https://www.dropbox.com/s/0pusturdl8uv55u/2018-ATM-GLLR.pdf?dl=0)[\[Journal link\]](https://www.dropbox.com/s/0pusturdl8uv55u/2018-ATM-GLLR.pdf?dl=0)
+\
   5. Kong, Y., Li, D., Fan. Y., and Lv, J. (2017). Interaction Pursuit in High-Dimensional Multi-response Regression via Distance
-     Correlation. The Annals of Statistics, 45, Pages 897-922. [PDF][Supplementary material][Journal link]
+     Correlation. The Annals of Statistics, 45, Pages 897-922. [\[PDF\]](https://www.dropbox.com/scl/fi/abr8qwu8kuym1j72npk33/2017-AOS-KLFL.pdf?rlkey=l9rztx3vnyhgiusoljbew8rz8&dl=0)[\[Supplementary material\]](https://www.dropbox.com/scl/fi/vdc05b71jxqm4kkls999i/2017-AOS-KLFL_Supp.pdf?rlkey=xqfnpsu6laxwzv90jwrkztiu8&dl=0)[\[Journal link\]](https://projecteuclid.org/journals/annals-of-statistics/volume-45/issue-2/Interaction-pursuit-in-high-dimensional-multi-response-regression-via-distance/10.1214/16-AOS1474.full)
 
   4. Fan, Y., Kong, Y., Li, D., and Zheng, Z. (2015). Innovated Interaction Screening for High-Dimensional Nonlinear Classification. 
      The Annals of Statistics, 43, Pages 1243-1272. [PDF][Supplementary material][Journal link]
