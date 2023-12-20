@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 {% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
+  You can also find my articles on <u><a href="{{https://scholar.google.com/citations?user=omriiSYAAAAJ&hl=en}}">my Google Scholar profile</a>.</u>
 {% endif %}
 
 {% include base_path %}
@@ -33,7 +33,7 @@ author_profile: true
      Consistency for Underdog Entrepreneurs. Journal of Business Research, 169, Article 114300. [\[Journal link\]](https://www.sciencedirect.com/science/article/abs/pii/S0148296323006598)
 
  15. Yu, J., Li, D., Luo, L., and Zhao, H. (2023). Reproducible Learning for Accelerated Failure Time Models via Deep Knockoffs.	
-     Communications in Statistics - Theory and Methods, to appear (published online: 25 Aug 2023). [PDF][Journal link]
+     Communications in Statistics - Theory and Methods, to appear (published online: 25 Aug 2023). [\[PDF\]](https://www.dropbox.com/scl/fi/nl4vg1v8cns94vuswvbsq/AFT_DeepKnockoffs.pdf?rlkey=3iuwowjlpkjxgj10j54qp00e7&dl=0)[\[Journal link\]](https://www.tandfonline.com/doi/full/10.1080/03610926.2023.2247508)
 
  14. Li, D., Yu, J., and Zhao, H. (2023). CoxKnockoff: Controlled Feature Selection for the Cox Model Using Knockoffs.	
      Stat, 12(1), e607. [The Lay Abstract][PDF][Supplementary Material][Journal link][Python Code]
