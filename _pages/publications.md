@@ -36,10 +36,10 @@ author_profile: true
      Communications in Statistics - Theory and Methods, to appear (published online: 25 Aug 2023). [\[PDF\]](https://www.dropbox.com/scl/fi/nl4vg1v8cns94vuswvbsq/AFT_DeepKnockoffs.pdf?rlkey=3iuwowjlpkjxgj10j54qp00e7&dl=0)[\[Journal link\]](https://www.tandfonline.com/doi/full/10.1080/03610926.2023.2247508)
 
  14. Li, D., Yu, J., and Zhao, H. (2023). CoxKnockoff: Controlled Feature Selection for the Cox Model Using Knockoffs.	
-     Stat, 12(1), e607. [The Lay Abstract][PDF][Supplementary Material][Journal link][Python Code]
+     Stat, 12(1), e607. [\[The Lay Abstract\]](https://www.statisticsviews.com/article/lay-abstract-for-stat-article-coxknockoff-controlled-feature-selection-for-the-cox-model-using-knockoffs/)[\[PDF\]](https://www.dropbox.com/s/3ndg6684lpd20q9/CoxKnockoff_final.pdf?dl=0)[\[Supplementary Material\]](https://www.dropbox.com/s/dhm38sht6rdq9nj/2023_STA4_LYZ_supp.pdf?dl=0)[\[Journal link\]](https://onlinelibrary.wiley.com/doi/10.1002/sta4.607)[\[Python Code\]](https://www.dropbox.com/scl/fi/p3l75qvytychdkefb3utg/Codes_CoxKnockoff.zip?rlkey=qifwxuzxvmkb9rh88g56n87zc&dl=0)
 
  13. Li, D., Kong, Y., Fan, Y., and Lv, J. (2022). High-dimensional interaction detection with false sign rate control. 
-     Journal of Business & Economic Statistics, 40, Pages 1234-1245.[PDF][Supplementary Material][Journal link]
+     Journal of Business & Economic Statistics, 40, Pages 1234-1245.[\[PDF\]](https://www.dropbox.com/scl/fi/a7h5lpsharxs9wm3puxf8/2022-JBES-LKFL.pdf?rlkey=9xzho2axj5544y3ut1z0r6luy&dl=0)[Supplementary Material][Journal link]
 
  12. Zhang, J., Li, D., Xia, Y., and Liao, Q. (2022). Bayesian Aerosol Retrieval-Based PM2.5 Estimation through Hierarchical Gaussian
      Process Models. Mathematics, 10(16), Article 2878.[PDF][Journal link]
