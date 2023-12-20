@@ -16,7 +16,7 @@ Daoji Li is an Assistant Professor of Data Science and Statistics in the [Depart
 
 **Office**: [Steven G. Mihaylo Hall (SGMH)](https://www.fullerton.edu/campusmap/) 4159
 
-**Address**: 800 N State College Blvd, 
+**Mailing Address**: 800 N State College Blvd, 
              Fullerton, CA 92831
          
 
