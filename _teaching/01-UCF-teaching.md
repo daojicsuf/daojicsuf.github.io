@@ -2,7 +2,7 @@
 title: "Teaching experience 2"
 collection: teaching
 type: "Workshop"
-permalink: /teaching/UCF-teaching
+permalink: /teaching/01-UCF-teaching
 venue: "UCF"
 date: 2015-2018
 location: "Orlando, FL"
