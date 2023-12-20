@@ -30,7 +30,7 @@ author_profile: true
 **Peer-Reviewed Publications** 
 
  16. Chen, Q., He, Y., Hu, M., and Li, D.(2023). (Em)powering the Underdog:  How Power States Enhance Referral Intention-Behavior
-     Consistency for Underdog Entrepreneurs. Journal of Business Research, 169, Article 114300. [Journal link]
+     Consistency for Underdog Entrepreneurs. Journal of Business Research, 169, Article 114300. [\[Journal link\]](https://www.sciencedirect.com/science/article/abs/pii/S0148296323006598)
 
  15. Yu, J., Li, D., Luo, L., and Zhao, H. (2023). Reproducible Learning for Accelerated Failure Time Models via Deep Knockoffs.	
      Communications in Statistics - Theory and Methods, to appear (published online: 25 Aug 2023). [PDF][Journal link]
