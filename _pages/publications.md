@@ -26,6 +26,7 @@ author_profile: true
  17. Li, D., Bao, Y., and Pan, J. (2023). Semiparametric Estimation of Mean and Variance in Generalized Estimating Equations.	
      Manuscript, 2nd round review.
 
+ {: reversed="reversed"}
 
 **Peer-Reviewed Publications** 
 
@@ -77,6 +78,7 @@ author_profile: true
   1. Zhou, Y. and Li, D. (2006). Confidence Intervals of Variance Functions in Generalized Linear Model. 
      Acta Mathematicae Applicatae Sinica, 22, Pages 353-368. [\[PDF\]](https://www.dropbox.com/scl/fi/8bgg6xssjr7tspoi6c46y/2006-AMAS-ZL.pdf?rlkey=0pikc3jc1q4otya7zqll6g33h&dl=0)[\[Journal link\]](https://link.springer.com/article/10.1007/s10255-006-0311-x)
    
+{: reversed="reversed"}
 
 **Book Chapter** 
   - Li, D., Kong, Y., Zheng, Z., and Pan, J. (2022). Recent Advances in Big Data Analytics.
