@@ -66,21 +66,21 @@ author_profile: true
      Correlation. The Annals of Statistics, 45, Pages 897-922. [\[PDF\]](https://www.dropbox.com/scl/fi/abr8qwu8kuym1j72npk33/2017-AOS-KLFL.pdf?rlkey=l9rztx3vnyhgiusoljbew8rz8&dl=0)[\[Supplementary material\]](https://www.dropbox.com/scl/fi/vdc05b71jxqm4kkls999i/2017-AOS-KLFL_Supp.pdf?rlkey=xqfnpsu6laxwzv90jwrkztiu8&dl=0)[\[Journal link\]](https://projecteuclid.org/journals/annals-of-statistics/volume-45/issue-2/Interaction-pursuit-in-high-dimensional-multi-response-regression-via-distance/10.1214/16-AOS1474.full)
 
   4. Fan, Y., Kong, Y., Li, D., and Zheng, Z. (2015). Innovated Interaction Screening for High-Dimensional Nonlinear Classification. 
-     The Annals of Statistics, 43, Pages 1243-1272. [PDF][Supplementary material][Journal link]
+     The Annals of Statistics, 43, Pages 1243-1272. [\[PDF\]](https://www.dropbox.com/scl/fi/vcsxdmfi93h6hsul33hlj/2015-AOS-FKLZ.pdf?rlkey=8xx1tsy4c9a2bucj60p7mvul1&dl=0)[\[Supplementary material\]](https://www.dropbox.com/scl/fi/kv9o49q18g1jn8vpgqa6b/2015-AOS-FKLZ_Supp.pdf?rlkey=g6u3sg4vmwfz0tjkvl4jqucaq&dl=0)[\[Journal link\]](https://projecteuclid.org/journals/annals-of-statistics/volume-43/issue-3/Innovated-interaction-screening-for-high-dimensional-nonlinear-classification/10.1214/14-AOS1308.full)
 
   3. Li, D. and Pan, J. (2013). Empirical Likelihood for Generalized Linear Models with Longitudinal Data. 
-     Journal of Multivariate Analysis, 114, Pages 63-73. [PDF][Journal link]
+     Journal of Multivariate Analysis, 114, Pages 63-73. [\[PDF\]](https://www.dropbox.com/scl/fi/soyjjt4jn778wr3kjpykb/2013-JMVA-LP.pdf?rlkey=1ktjvolqlxmm1tp99z9f5ip3f&dl=0)[\[Journal link\]](https://www.sciencedirect.com/science/article/pii/S0047259X12001820)
      
   2. Zhou, Y., Wu, G., and Li, D. (2006). A kernel-type estimator of a quantile function under randomly truncated data. 
-     Acta Mathematica Scientia, 26, Pages 585-594. [PDF][Journal link]
+     Acta Mathematica Scientia, 26, Pages 585-594. [\[PDF\]](https://www.dropbox.com/scl/fi/2b0hbj4wp9xgperli8tus/2006-AMS-ZWL.pdf?rlkey=a1ccvabecqsl1olkh33jms86p&dl=0)[\[Journal link\]](https://www.sciencedirect.com/science/article/abs/pii/S0252960206600842)
 
   1. Zhou, Y. and Li, D. (2006). Confidence Intervals of Variance Functions in Generalized Linear Model. 
-     Acta Mathematicae Applicatae Sinica, 22, Pages 353-368. [PDF][Journal link]
+     Acta Mathematicae Applicatae Sinica, 22, Pages 353-368. [\[PDF\]](https://www.dropbox.com/scl/fi/8bgg6xssjr7tspoi6c46y/2006-AMAS-ZL.pdf?rlkey=0pikc3jc1q4otya7zqll6g33h&dl=0)[\[Journal link\]](https://link.springer.com/article/10.1007/s10255-006-0311-x)
    
 
 **Book Chapter** 
   - Li, D., Kong, Y., Zheng, Z., and Pan, J. (2022). Recent Advances in Big Data Analytics.
-    In The Palgrave Handbook of Operations Research (Editors: Saïd Salhi and John Boylan). Book available from Springer. 
+    In The Palgrave Handbook of Operations Research (Editors: Saïd Salhi and John Boylan). [\[PDF\]](https://www.dropbox.com/scl/fi/ttq10uyez63wz4fqzp94y/2022-BookChapter_LKZP.pdf?rlkey=77p0xu5lzbwejj0gm3d9l5oy0&dl=0). Book available from [Springer](https://link.springer.com/book/10.1007/978-3-030-96935-6). 
 
 <br>
 <br>
