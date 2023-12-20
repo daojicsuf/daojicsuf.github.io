@@ -39,10 +39,10 @@ author_profile: true
      Stat, 12(1), e607. [\[The Lay Abstract\]](https://www.statisticsviews.com/article/lay-abstract-for-stat-article-coxknockoff-controlled-feature-selection-for-the-cox-model-using-knockoffs/)[\[PDF\]](https://www.dropbox.com/s/3ndg6684lpd20q9/CoxKnockoff_final.pdf?dl=0)[\[Supplementary Material\]](https://www.dropbox.com/s/dhm38sht6rdq9nj/2023_STA4_LYZ_supp.pdf?dl=0)[\[Journal link\]](https://onlinelibrary.wiley.com/doi/10.1002/sta4.607)[\[Python Code\]](https://www.dropbox.com/scl/fi/p3l75qvytychdkefb3utg/Codes_CoxKnockoff.zip?rlkey=qifwxuzxvmkb9rh88g56n87zc&dl=0)
 
  13. Li, D., Kong, Y., Fan, Y., and Lv, J. (2022). High-dimensional interaction detection with false sign rate control. 
-     Journal of Business & Economic Statistics, 40, Pages 1234-1245.[\[PDF\]](https://www.dropbox.com/scl/fi/a7h5lpsharxs9wm3puxf8/2022-JBES-LKFL.pdf?rlkey=9xzho2axj5544y3ut1z0r6luy&dl=0)[Supplementary Material][Journal link]
+     Journal of Business & Economic Statistics, 40, Pages 1234-1245.[\[PDF\]](https://www.dropbox.com/scl/fi/a7h5lpsharxs9wm3puxf8/2022-JBES-LKFL.pdf?rlkey=9xzho2axj5544y3ut1z0r6luy&dl=0)[\[Supplementary Material\]](https://www.dropbox.com/scl/fi/1no57654d6q0k3lf6s2po/2022-JBES-LKFL-Supp.pdf?rlkey=mfbqtv3kw34f9pjf7fi7eevjm&dl=0)[\[Journal link\]](https://www.tandfonline.com/eprint/ESJB4TYQWU4EXFGXC4GB/full?target=10.1080/07350015.2021.1917419)
 
  12. Zhang, J., Li, D., Xia, Y., and Liao, Q. (2022). Bayesian Aerosol Retrieval-Based PM2.5 Estimation through Hierarchical Gaussian
-     Process Models. Mathematics, 10(16), Article 2878.[PDF][Journal link]
+     Process Models. Mathematics, 10(16), Article 2878.[\[PDF\]](https://www.dropbox.com/scl/fi/ktrlkz75ykhpqqw2xmo59/2022-mathematics-ZLXL-Published.pdf?rlkey=rqlp0du6dsznxm7zylxdfoiim&dl=0)[\[Journal link\]](https://www.mdpi.com/2227-7390/10/16/2878)
 
  11. Zhou, J., Li, Y., Zheng, Z., and Li, D. (2022).  Reproducible learning in large-scale graphical models.
      Journal of Multivariate Analysis, 189, Article 104934.[PDF][Journal link] 
@@ -82,10 +82,5 @@ author_profile: true
   - Li, D., Kong, Y., Zheng, Z., and Pan, J. (2022). Recent Advances in Big Data Analytics.
     In The Palgrave Handbook of Operations Research (Editors: Saïd Salhi and John Boylan). Book available from Springer. 
 
-
-
-
-
-
-
-- 
+<br>
+<br>
