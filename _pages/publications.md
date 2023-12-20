@@ -61,7 +61,7 @@ author_profile: true
 
   6. Gu, H., Li, D., Liu, C., and Rao, Z. (2018). %ggBaseline: a SAS macro for analyzing and reporting baseline characteristics
      automatically in medical research.  Annals of Translational Medicine, 6(16), 326. [\[PDF\]](https://www.dropbox.com/s/0pusturdl8uv55u/2018-ATM-GLLR.pdf?dl=0)[\[Journal link\]](https://www.dropbox.com/s/0pusturdl8uv55u/2018-ATM-GLLR.pdf?dl=0)
-\
+
   5. Kong, Y., Li, D., Fan. Y., and Lv, J. (2017). Interaction Pursuit in High-Dimensional Multi-response Regression via Distance
      Correlation. The Annals of Statistics, 45, Pages 897-922. [\[PDF\]](https://www.dropbox.com/scl/fi/abr8qwu8kuym1j72npk33/2017-AOS-KLFL.pdf?rlkey=l9rztx3vnyhgiusoljbew8rz8&dl=0)[\[Supplementary material\]](https://www.dropbox.com/scl/fi/vdc05b71jxqm4kkls999i/2017-AOS-KLFL_Supp.pdf?rlkey=xqfnpsu6laxwzv90jwrkztiu8&dl=0)[\[Journal link\]](https://projecteuclid.org/journals/annals-of-statistics/volume-45/issue-2/Interaction-pursuit-in-high-dimensional-multi-response-regression-via-distance/10.1214/16-AOS1474.full)
 
