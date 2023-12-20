@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Daoji Li"
+title                    : "Home"
 title_separator          : "-"
 name                     : &name "Daoji"
 description              : &description "Statistician and Data Scientist"
