@@ -45,16 +45,16 @@ author_profile: true
      Process Models. Mathematics, 10(16), Article 2878.[\[PDF\]](https://www.dropbox.com/scl/fi/ktrlkz75ykhpqqw2xmo59/2022-mathematics-ZLXL-Published.pdf?rlkey=rqlp0du6dsznxm7zylxdfoiim&dl=0)[\[Journal link\]](https://www.mdpi.com/2227-7390/10/16/2878)
 
  11. Zhou, J., Li, Y., Zheng, Z., and Li, D. (2022).  Reproducible learning in large-scale graphical models.
-     Journal of Multivariate Analysis, 189, Article 104934.[PDF][Journal link] 
+     Journal of Multivariate Analysis, 189, Article 104934.[\[PDF\]](https://www.dropbox.com/s/caz7qmmzlk4yzr2/2022-JMVA-ZLZL-Published.pdf?dl=0)[\[Journal link\]](https://www.sciencedirect.com/science/article/abs/pii/S0047259X21002001) 
 
  10. Dong, Y., Li, D., Zheng, Z., and Zhou, J. (2022). Reproducible feature selection in high-dimensional accelerated failure time models.
-     Statistics & Probability Letters, 181, Article 109275.[PDF][Supplementary Material][Journal link] 
+     Statistics & Probability Letters, 181, Article 109275.[\[PDF\]](https://www.dropbox.com/s/6d3p8zdwuu723dr/2022-SPL-DLZZ-published.pdf?dl=0)[\[Supplementary Material\]](https://www.dropbox.com/s/7c8dgne2h6774zm/2022-SPL-DLZZ-supp.pdf?dl=0)[\[Journal link\]](https://www.sciencedirect.com/science/article/abs/pii/S0167715221002376) 
 
   9. Dong, R., Li, D., Zheng, Z. (2021). Parallel integrative learning for large-scale multi-response regression with incomplete outcomes.
-     Computational Statistics & Data Analysis, 160, Article 107243. [PDF][Journal link]
+     Computational Statistics & Data Analysis, 160, Article 107243. [\[PDF\]](https://www.dropbox.com/s/2h5dnlmcrznym4h/2021-CSDA-PEER-published.pdf?dl=0)[\[Journal link\]](https://www.dropbox.com/s/2h5dnlmcrznym4h/2021-CSDA-PEER-published.pdf?dl=0)
 
   8. Zheng, Z., Zhu, J., Guo, X., and Li, D. (2018). Recovering the Graphical Structures via Knockoffs. 
-     Procedia Computer Science, 129, Pages 201-207. [PDF][Journal link]
+     Procedia Computer Science, 129, Pages 201-207. [\[PDF\]]()[\[Journal link\]]()
 
   7. Widjaja, R. F., Panamtash, H., Zhou, Q., and Li, D. (2018). Solar power forecasting with model selection analysis. 
      Proceedings of 2018 Clemson University Power Systems Conference. DOI: 10.1109/PSC.2018.8664060. [PDF][Journal link]
