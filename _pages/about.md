@@ -21,7 +21,7 @@ I am an Assistant Professor of Data Science and Statistics in the [Department of
          
 
 <br>
-<br>
+
 
 Research Interests 
 ======
@@ -29,6 +29,7 @@ Research Interests
 My research interests include Feature Screening, Variable Selection, Deep Learning, Causal Inference, High Dimensional Statistics, Statistical Machine Learning, Missing Data, Longitudinal Data Analysis, and Data Mining with applications to Business, Public Health, Medicine, Biology, Engineering and Social Media.  His papers have been published in leading journals in statistics, including the Annals of Statistics, Journal of Business & Economic Statistics, Journal of Multivariate Analysis, and Computational Statistics & Data Analysis. Examples of his research projects include [reducing lending risks for commercial banks](https://www.americanbanker.com/creditunions/news/how-grad-students-helped-improve-analytics-models-at-cfe-federal-credit-union), [predicting wildfires using big data](https://sciences.ucf.edu/news/team-uses-big-data-predict-wildfires/), [forecasting Solar Power using new statistical models](https://ieeexplore.ieee.org/document/8664060), and classifying breast cancer data. 
 
 
-
+<br>
+<br>
 
 
