@@ -17,7 +17,10 @@ author_profile: true
 
 **Selected Manuscripts**  
 
- - Li, D., Kong, Y., and Zerom, D. (2023). Nonparametric Screening for Additive Quantile Regression in Ultra-high Dimension.
+ - Wu, J., Zhang, B., Li, D., and Zheng, Z. (2023). Simultaneous Heterogeneous and Reduced-Rank Learning for Multivariate Response Regression. 
+     Manuscript, Under review.
+
+- Li, D., Kong, Y., and Zerom, D. (2023). Nonparametric Screening for Additive Quantile Regression in Ultra-high Dimension.
      Manuscript, Under review. [\[arXiv:2311.03769\]](https://arxiv.org/abs/2311.03769)
 
  - Zhang, F., Fan, C., and Li, D. (2023). Measuring Prediction Accuracy for Expectile Regression. 
