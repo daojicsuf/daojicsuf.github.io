@@ -21,7 +21,7 @@ author_profile: true
      Manuscript, Under review.
 
 - Li, D., Kong, Y., and Zerom, D. (2023). Nonparametric Screening for Additive Quantile Regression in Ultra-high Dimension.
-     Manuscript, Under review. [\[arXiv:2311.03769\]](https://arxiv.org/abs/2311.03769)
+     Manuscript, Under review. [\[arXiv:2311.03769v2\]](https://arxiv.org/abs/2311.03769v2)
 
  - Zhang, F., Fan, C., and Li, D. (2023). Measuring Prediction Accuracy for Expectile Regression. 
      Manuscript, Under revision. 
