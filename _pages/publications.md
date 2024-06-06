@@ -20,9 +20,6 @@ author_profile: true
  - Wu, J., Zhang, B., Li, D., and Zheng, Z. (2023). Simultaneous Heterogeneous and Reduced-Rank Learning for Multivariate Response Regression. 
      Manuscript, Under review.
 
-- Li, D., Kong, Y., and Zerom, D. (2023). Nonparametric Screening for Additive Quantile Regression in Ultra-high Dimension.
-     Manuscript, Under review. [\[arXiv:2311.03769v2\]](https://arxiv.org/abs/2311.03769v2)
-
  - Zhang, F., Fan, C., and Li, D. (2023). Measuring Prediction Accuracy for Expectile Regression. 
      Manuscript, Under revision. 
 
@@ -31,6 +28,9 @@ author_profile: true
 
 
 **Peer-Reviewed Publications** 
+
+- Li, D., Kong, Y., and Zerom, D. (2024). Nonparametric Screening for Additive Quantile Regression in Ultra-high Dimension.
+     Journal of Nonparametric Statistics, Accepted. [\[arXiv:2311.03769v2\]](https://arxiv.org/abs/2311.03769v2)
 
  - Chen, Q., He, Y., Hu, M., and Li, D.(2023). (Em)powering the Underdog:  How Power States Enhance Referral Intention-Behavior
      Consistency for Underdog Entrepreneurs. Journal of Business Research, 169, Article 114300. [\[Journal link\]](https://www.sciencedirect.com/science/article/abs/pii/S0148296323006598)
