@@ -33,7 +33,7 @@ author_profile: true
      <i>Journal of Nonparametric Statistics</i>, Accepted. [\[arXiv:2311.03769v2\]](https://arxiv.org/abs/2311.03769v2)
 
  - Chen, Q., He, Y., Hu, M., and Li, D.(2023). (Em)powering the Underdog:  How Power States Enhance Referral Intention-Behavior
-     Consistency for Underdog Entrepreneurs. <i>JJournal of Business Research<</i>, 169, Article 114300. [\[Journal link\]](https://www.sciencedirect.com/science/article/abs/pii/S0148296323006598)
+     Consistency for Underdog Entrepreneurs. <i>Journal of Business Research</i>, 169, Article 114300. [\[Journal link\]](https://www.sciencedirect.com/science/article/abs/pii/S0148296323006598)
 
  - Yu, J., Li, D., Luo, L., and Zhao, H. (2023). Reproducible Learning for Accelerated Failure Time Models via Deep Knockoffs.	
      <i>Communications in Statistics - Theory and Methods</i>, to appear (published online: 25 Aug 2023). [\[PDF\]](https://www.dropbox.com/scl/fi/nl4vg1v8cns94vuswvbsq/AFT_DeepKnockoffs.pdf?rlkey=3iuwowjlpkjxgj10j54qp00e7&dl=0)[\[Journal link\]](https://www.tandfonline.com/doi/full/10.1080/03610926.2023.2247508)
@@ -45,40 +45,40 @@ author_profile: true
      <i>Journal of Business & Economic Statistics</i>, 40, Pages 1234-1245.[\[PDF\]](https://www.dropbox.com/scl/fi/a7h5lpsharxs9wm3puxf8/2022-JBES-LKFL.pdf?rlkey=9xzho2axj5544y3ut1z0r6luy&dl=0)[\[Supplementary Material\]](https://www.dropbox.com/scl/fi/1no57654d6q0k3lf6s2po/2022-JBES-LKFL-Supp.pdf?rlkey=mfbqtv3kw34f9pjf7fi7eevjm&dl=0)[\[Journal link\]](https://www.tandfonline.com/eprint/ESJB4TYQWU4EXFGXC4GB/full?target=10.1080/07350015.2021.1917419)
 
  - Zhang, J., Li, D., Xia, Y., and Liao, Q. (2022). Bayesian Aerosol Retrieval-Based PM2.5 Estimation through Hierarchical Gaussian
-     Process Models. Mathematics, 10(16), Article 2878.[\[PDF\]](https://www.dropbox.com/scl/fi/ktrlkz75ykhpqqw2xmo59/2022-mathematics-ZLXL-Published.pdf?rlkey=rqlp0du6dsznxm7zylxdfoiim&dl=0)[\[Journal link\]](https://www.mdpi.com/2227-7390/10/16/2878)
+     Process Models. <i>Mathematics</i>, 10(16), Article 2878.[\[PDF\]](https://www.dropbox.com/scl/fi/ktrlkz75ykhpqqw2xmo59/2022-mathematics-ZLXL-Published.pdf?rlkey=rqlp0du6dsznxm7zylxdfoiim&dl=0)[\[Journal link\]](https://www.mdpi.com/2227-7390/10/16/2878)
 
  - Zhou, J., Li, Y., Zheng, Z., and Li, D. (2022).  Reproducible learning in large-scale graphical models.
-     Journal of Multivariate Analysis, 189, Article 104934.[\[PDF\]](https://www.dropbox.com/s/caz7qmmzlk4yzr2/2022-JMVA-ZLZL-Published.pdf?dl=0)[\[Journal link\]](https://www.sciencedirect.com/science/article/abs/pii/S0047259X21002001) 
+     <i>Journal of Multivariate Analysis</i>, 189, Article 104934.[\[PDF\]](https://www.dropbox.com/s/caz7qmmzlk4yzr2/2022-JMVA-ZLZL-Published.pdf?dl=0)[\[Journal link\]](https://www.sciencedirect.com/science/article/abs/pii/S0047259X21002001) 
 
  - Dong, Y., Li, D., Zheng, Z., and Zhou, J. (2022). Reproducible feature selection in high-dimensional accelerated failure time models.
-     Statistics & Probability Letters, 181, Article 109275.[\[PDF\]](https://www.dropbox.com/s/6d3p8zdwuu723dr/2022-SPL-DLZZ-published.pdf?dl=0)[\[Supplementary Material\]](https://www.dropbox.com/s/7c8dgne2h6774zm/2022-SPL-DLZZ-supp.pdf?dl=0)[\[Journal link\]](https://www.sciencedirect.com/science/article/abs/pii/S0167715221002376) 
+     <i>Statistics & Probability Letters</i>, 181, Article 109275.[\[PDF\]](https://www.dropbox.com/s/6d3p8zdwuu723dr/2022-SPL-DLZZ-published.pdf?dl=0)[\[Supplementary Material\]](https://www.dropbox.com/s/7c8dgne2h6774zm/2022-SPL-DLZZ-supp.pdf?dl=0)[\[Journal link\]](https://www.sciencedirect.com/science/article/abs/pii/S0167715221002376) 
 
   - Dong, R., Li, D., Zheng, Z. (2021). Parallel integrative learning for large-scale multi-response regression with incomplete outcomes.
-     Computational Statistics & Data Analysis, 160, Article 107243. [\[PDF\]](https://www.dropbox.com/s/2h5dnlmcrznym4h/2021-CSDA-PEER-published.pdf?dl=0)[\[Journal link\]](https://www.dropbox.com/s/2h5dnlmcrznym4h/2021-CSDA-PEER-published.pdf?dl=0)
+     <i>Computational Statistics & Data Analysis</i>, 160, Article 107243. [\[PDF\]](https://www.dropbox.com/s/2h5dnlmcrznym4h/2021-CSDA-PEER-published.pdf?dl=0)[\[Journal link\]](https://www.dropbox.com/s/2h5dnlmcrznym4h/2021-CSDA-PEER-published.pdf?dl=0)
 
   - Zheng, Z., Zhu, J., Guo, X., and Li, D. (2018). Recovering the Graphical Structures via Knockoffs. 
-     Procedia Computer Science, 129, Pages 201-207. [\[PDF\]](https://www.dropbox.com/scl/fi/86b5by6i854z88an6tylp/2018-PCS-ZZGL.pdf?rlkey=bgkadujv4hg6iqc3s5svivfcl&dl=0)[\[Journal link\]](https://www.sciencedirect.com/science/article/pii/S1877050918302606)
+     <i>Procedia Computer Science</i>, 129, Pages 201-207. [\[PDF\]](https://www.dropbox.com/scl/fi/86b5by6i854z88an6tylp/2018-PCS-ZZGL.pdf?rlkey=bgkadujv4hg6iqc3s5svivfcl&dl=0)[\[Journal link\]](https://www.sciencedirect.com/science/article/pii/S1877050918302606)
 
   - Widjaja, R. F., Panamtash, H., Zhou, Q., and Li, D. (2018). Solar power forecasting with model selection analysis. 
-     Proceedings of 2018 Clemson University Power Systems Conference. DOI: 10.1109/PSC.2018.8664060. [\[PDF\]](https://www.dropbox.com/scl/fi/ab1ljenzuv40t6hum6ln8/2018-PSC-WPZL.pdf?rlkey=xukya077dobhwjpwz5fgjq41g&dl=0)[\[Journal link\]](https://ieeexplore.ieee.org/document/8664060)
+     <i>Proceedings of 2018 Clemson University Power Systems Conference</i>. DOI: 10.1109/PSC.2018.8664060. [\[PDF\]](https://www.dropbox.com/scl/fi/ab1ljenzuv40t6hum6ln8/2018-PSC-WPZL.pdf?rlkey=xukya077dobhwjpwz5fgjq41g&dl=0)[\[Journal link\]](https://ieeexplore.ieee.org/document/8664060)
 
   - Gu, H., Li, D., Liu, C., and Rao, Z. (2018). %ggBaseline: a SAS macro for analyzing and reporting baseline characteristics
-     automatically in medical research.  Annals of Translational Medicine, 6(16), 326. [\[PDF\]](https://www.dropbox.com/s/0pusturdl8uv55u/2018-ATM-GLLR.pdf?dl=0)[\[Journal link\]](https://www.dropbox.com/s/0pusturdl8uv55u/2018-ATM-GLLR.pdf?dl=0)
+     automatically in medical research.  <i>Annals of Translational Medicine</i>, 6(16), 326. [\[PDF\]](https://www.dropbox.com/s/0pusturdl8uv55u/2018-ATM-GLLR.pdf?dl=0)[\[Journal link\]](https://www.dropbox.com/s/0pusturdl8uv55u/2018-ATM-GLLR.pdf?dl=0)
 
   - Kong, Y., Li, D., Fan. Y., and Lv, J. (2017). Interaction Pursuit in High-Dimensional Multi-response Regression via Distance
-     Correlation. The Annals of Statistics, 45, Pages 897-922. [\[PDF\]](https://www.dropbox.com/scl/fi/abr8qwu8kuym1j72npk33/2017-AOS-KLFL.pdf?rlkey=l9rztx3vnyhgiusoljbew8rz8&dl=0)[\[Supplementary material\]](https://www.dropbox.com/scl/fi/vdc05b71jxqm4kkls999i/2017-AOS-KLFL_Supp.pdf?rlkey=xqfnpsu6laxwzv90jwrkztiu8&dl=0)[\[Journal link\]](https://projecteuclid.org/journals/annals-of-statistics/volume-45/issue-2/Interaction-pursuit-in-high-dimensional-multi-response-regression-via-distance/10.1214/16-AOS1474.full)
+     Correlation. <i>The Annals of Statistics</i>, 45, Pages 897-922. [\[PDF\]](https://www.dropbox.com/scl/fi/abr8qwu8kuym1j72npk33/2017-AOS-KLFL.pdf?rlkey=l9rztx3vnyhgiusoljbew8rz8&dl=0)[\[Supplementary material\]](https://www.dropbox.com/scl/fi/vdc05b71jxqm4kkls999i/2017-AOS-KLFL_Supp.pdf?rlkey=xqfnpsu6laxwzv90jwrkztiu8&dl=0)[\[Journal link\]](https://projecteuclid.org/journals/annals-of-statistics/volume-45/issue-2/Interaction-pursuit-in-high-dimensional-multi-response-regression-via-distance/10.1214/16-AOS1474.full)
 
   - Fan, Y., Kong, Y., Li, D., and Zheng, Z. (2015). Innovated Interaction Screening for High-Dimensional Nonlinear Classification. 
-     The Annals of Statistics, 43, Pages 1243-1272. [\[PDF\]](https://www.dropbox.com/scl/fi/vcsxdmfi93h6hsul33hlj/2015-AOS-FKLZ.pdf?rlkey=8xx1tsy4c9a2bucj60p7mvul1&dl=0)[\[Supplementary material\]](https://www.dropbox.com/scl/fi/kv9o49q18g1jn8vpgqa6b/2015-AOS-FKLZ_Supp.pdf?rlkey=g6u3sg4vmwfz0tjkvl4jqucaq&dl=0)[\[Journal link\]](https://projecteuclid.org/journals/annals-of-statistics/volume-43/issue-3/Innovated-interaction-screening-for-high-dimensional-nonlinear-classification/10.1214/14-AOS1308.full)
+     <i>The Annals of Statistics</i>, 43, Pages 1243-1272. [\[PDF\]](https://www.dropbox.com/scl/fi/vcsxdmfi93h6hsul33hlj/2015-AOS-FKLZ.pdf?rlkey=8xx1tsy4c9a2bucj60p7mvul1&dl=0)[\[Supplementary material\]](https://www.dropbox.com/scl/fi/kv9o49q18g1jn8vpgqa6b/2015-AOS-FKLZ_Supp.pdf?rlkey=g6u3sg4vmwfz0tjkvl4jqucaq&dl=0)[\[Journal link\]](https://projecteuclid.org/journals/annals-of-statistics/volume-43/issue-3/Innovated-interaction-screening-for-high-dimensional-nonlinear-classification/10.1214/14-AOS1308.full)
 
   - Li, D. and Pan, J. (2013). Empirical Likelihood for Generalized Linear Models with Longitudinal Data. 
-     Journal of Multivariate Analysis, 114, Pages 63-73. [\[PDF\]](https://www.dropbox.com/scl/fi/soyjjt4jn778wr3kjpykb/2013-JMVA-LP.pdf?rlkey=1ktjvolqlxmm1tp99z9f5ip3f&dl=0)[\[Journal link\]](https://www.sciencedirect.com/science/article/pii/S0047259X12001820)
+     <i>Journal of Multivariate Analysis</i>, 114, Pages 63-73. [\[PDF\]](https://www.dropbox.com/scl/fi/soyjjt4jn778wr3kjpykb/2013-JMVA-LP.pdf?rlkey=1ktjvolqlxmm1tp99z9f5ip3f&dl=0)[\[Journal link\]](https://www.sciencedirect.com/science/article/pii/S0047259X12001820)
      
   - Zhou, Y., Wu, G., and Li, D. (2006). A kernel-type estimator of a quantile function under randomly truncated data. 
-     Acta Mathematica Scientia, 26, Pages 585-594. [\[PDF\]](https://www.dropbox.com/scl/fi/2b0hbj4wp9xgperli8tus/2006-AMS-ZWL.pdf?rlkey=a1ccvabecqsl1olkh33jms86p&dl=0)[\[Journal link\]](https://www.sciencedirect.com/science/article/abs/pii/S0252960206600842)
+     <i>Acta Mathematica Scientia</i>, 26, Pages 585-594. [\[PDF\]](https://www.dropbox.com/scl/fi/2b0hbj4wp9xgperli8tus/2006-AMS-ZWL.pdf?rlkey=a1ccvabecqsl1olkh33jms86p&dl=0)[\[Journal link\]](https://www.sciencedirect.com/science/article/abs/pii/S0252960206600842)
 
   - Zhou, Y. and Li, D. (2006). Confidence Intervals of Variance Functions in Generalized Linear Model. 
-     Acta Mathematicae Applicatae Sinica, 22, Pages 353-368. [\[PDF\]](https://www.dropbox.com/scl/fi/8bgg6xssjr7tspoi6c46y/2006-AMAS-ZL.pdf?rlkey=0pikc3jc1q4otya7zqll6g33h&dl=0)[\[Journal link\]](https://link.springer.com/article/10.1007/s10255-006-0311-x)
+     <i>Acta Mathematicae Applicatae Sinica</i>, 22, Pages 353-368. [\[PDF\]](https://www.dropbox.com/scl/fi/8bgg6xssjr7tspoi6c46y/2006-AMAS-ZL.pdf?rlkey=0pikc3jc1q4otya7zqll6g33h&dl=0)[\[Journal link\]](https://link.springer.com/article/10.1007/s10255-006-0311-x)
    
 
 
