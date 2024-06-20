@@ -31,6 +31,7 @@ author_profile: true
 
 - Li, D., Kong, Y., and Zerom, D. (2024). Nonparametric Screening for Additive Quantile Regression in Ultra-high Dimension.
      <i>Journal of Nonparametric Statistics</i>, Accepted. [\[arXiv:2311.03769v2\]](https://arxiv.org/abs/2311.03769v2)
+     [\[Journal link\]](https://www.tandfonline.com/doi/epdf/10.1080/10485252.2024.2366978)[\[Supplementary Material\]](https://www.dropbox.com/scl/fi/u4x623qnr9lejwn75fwga/2024-GNST-LKZ-Supp.pdf?rlkey=u6gu6dc56o55f8bwqdaz9mmzl&dl=0)[\[R Code\]](https://www.dropbox.com/scl/fi/npucm81kmaed8yjp7ymll/sim_ex1.R?rlkey=h453gkwy8s2fw72jxrz2jtjeh&e=1&dl=0)
 
  - Chen, Q., He, Y., Hu, M., and Li, D.(2023). (Em)powering the Underdog:  How Power States Enhance Referral Intention-Behavior
      Consistency for Underdog Entrepreneurs. <i>Journal of Business Research</i>, 169, Article 114300. [\[Journal link\]](https://www.sciencedirect.com/science/article/abs/pii/S0148296323006598)
