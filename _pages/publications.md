@@ -23,7 +23,7 @@ author_profile: true
  - Zhang, F., Fan, C., and Li, D. (2023). Measuring Prediction Accuracy for Expectile Regression. 
      Manuscript, Under revision. 
 
- - Li, D., Bao, Y., and Pan, J. (2023). Semiparametric Estimation of Mean and Variance in Generalized Estimating Equations.	
+ - Li, D., Bao, Y., Li, L, and Pan, J. (2023). Semiparametric Estimation of Mean and Variance in Generalized Estimating Equations.	
      Manuscript, 2nd round review.
 
 
