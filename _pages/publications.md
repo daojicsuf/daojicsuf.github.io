@@ -17,11 +17,11 @@ author_profile: true
 
 **Selected Manuscripts**  
 
+ - Zhang, F., Fan, C., and Li, D. (2024). Measuring Forecast Accuracy for Expectile Regression with Possible Model Misspecification. 
+     Manuscript, Submitted.
+
  - Wu, J., Zhang, B., Li, D., and Zheng, Z. (2023). Simultaneous Heterogeneous and Reduced-Rank Learning for Multivariate Response Regression. 
      Manuscript, Under review.
-
- - Zhang, F., Fan, C., and Li, D. (2023). Measuring Prediction Accuracy for Expectile Regression. 
-     Manuscript, Under revision. 
 
  - Li, D., Bao, Y., Li, L, and Pan, J. (2023). Semiparametric Estimation of Mean and Variance in Generalized Estimating Equations.	
      Manuscript, 2nd round review.
