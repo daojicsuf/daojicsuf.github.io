@@ -76,5 +76,29 @@ author_profile: true
 - Social Sciences & Humanities Open (ScienceDirect)
 
 
+**Conference Session Chair or Organizer:** 
+
+- Joint Statistical Meetings (2025)
+  
+- International Conference on Econometrics and Statistics (2025, 2024, 2023, 20222, 2021)
+
+- International Chinese Statistical Association (ICSA) Applied Statistics Symposium (2025)
+
+- International Chinese Statistical Association (ICSA) China Conference (2024)
+
+- Symposium on Data Science and Statistics (2023)
+  
+- International Conference on Risk Analysis (2022)
+
+- International Conference of the ERCIM WG on Computational and Methodological Statistics (CMStatistics), 2020, 2019
+
+- INFORMS Annual Meeting (2019)
+
+- International Symposium on Forecasting (2019)
+
+- New England Statistics Symposium (2019)
+
+- International Conference on Statistical Distributions and Applications (2019)
+
 <br>
 <br>
