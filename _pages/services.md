@@ -17,7 +17,7 @@ author_profile: true
 
 
 
-**Referee for (86 in total excluding reviews of revisions for 44 journals)** 
+**Referee for 44 journals (with 86 papers in total):** 
 
 - Journal of the American Statistical Association
   
