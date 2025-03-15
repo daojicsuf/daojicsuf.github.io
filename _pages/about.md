@@ -14,7 +14,7 @@ I am an Associate Professor of Data Science and Statistics (with early tenure an
 
 **Phone**: (657) 278 3871
 
-**Office**: [Steven G. Mihaylo Hall (SGMH)](https://www.fullerton.edu/campusmap/) 4159
+**Office**: [Steven G. Mihaylo Hall (SGMH)](https://www.fullerton.edu/campusmap/) 4178
 
 **Mailing Address**: 800 N State College Blvd, 
              Fullerton, CA 92831
