@@ -86,7 +86,7 @@ author_profile: true
 
 - International Chinese Statistical Association (ICSA) China Conference (2024)
 
-- Symposium on Data Science and Statistics (2023)
+- ASA Symposium on Data Science and Statistics (2023)
   
 - International Conference on Risk Analysis (2022)
 
@@ -99,6 +99,8 @@ author_profile: true
 - New England Statistics Symposium (2019)
 
 - International Conference on Statistical Distributions and Applications (2019)
+
+- IMS Asia Pacific Rim Meeting (2016)
 
 <br>
 <br>
