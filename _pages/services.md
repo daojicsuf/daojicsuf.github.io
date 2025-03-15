@@ -11,9 +11,9 @@ author_profile: true
 
 **Professional Services**  
 
- - 2025-present, \[Scientific Reports\](https://www.nature.com/srep/), Editorial Board.
+ - 2025-present, [Scientific Reports](https://www.nature.com/srep/), Editorial Board.
 
- - 2024-present, [\[SAGE Open]\](https://journals.sagepub.com/home/sgo), Editorial Board.
+ - 2024-present, [SAGE Open](https://journals.sagepub.com/home/sgo), Editorial Board.
 
 
 
