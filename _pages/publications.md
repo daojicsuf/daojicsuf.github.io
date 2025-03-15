@@ -29,8 +29,8 @@ author_profile: true
 
 **Peer-Reviewed Publications** 
 
-- Li, D., Kong, Y., and Zerom, D. (2024). Nonparametric Screening for Additive Quantile Regression in Ultra-high Dimension.
-     <i>Journal of Nonparametric Statistics</i>, Accepted. [\[PDF\]](https://arxiv.org/abs/2311.03769v2)
+- Li, D., Kong, Y., and Zerom, D. (2025). Nonparametric Screening for Additive Quantile Regression in Ultra-high Dimension.
+     <i>Journal of Nonparametric Statistics</i>, 37, 148-168. (published online: 18 June 2024). [\[PDF\]](https://arxiv.org/abs/2311.03769v2)
      [\[Journal link\]](https://www.tandfonline.com/doi/epdf/10.1080/10485252.2024.2366978)[\[Supplementary Material\]](https://www.dropbox.com/scl/fi/u4x623qnr9lejwn75fwga/2024-GNST-LKZ-Supp.pdf?rlkey=u6gu6dc56o55f8bwqdaz9mmzl&dl=0)[\[R Code\]](https://www.dropbox.com/scl/fi/npucm81kmaed8yjp7ymll/sim_ex1.R?rlkey=h453gkwy8s2fw72jxrz2jtjeh&e=1&dl=0)
 
 - Yu, J., Li, D., Luo, L., and Zhao, H. (2024). Reproducible Learning for Accelerated Failure Time Models via Deep Knockoffs.	
