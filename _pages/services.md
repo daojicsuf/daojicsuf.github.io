@@ -9,7 +9,7 @@ author_profile: true
 {% include base_path %}
 
 
-**Professional Services**  
+**Editorial Board**  
 
  - 2025-present, [Scientific Reports](https://www.nature.com/srep/), Editorial Board.
 
