@@ -17,7 +17,7 @@ author_profile: true
 
 
 
-**Referee for 44 journals with 86 reviews (excluding reviews of revisions):** 
+**Referee for 45 journals with 87 reviews (excluding reviews of revisions):** 
 
 - Journal of the American Statistical Association
   
@@ -36,6 +36,8 @@ author_profile: true
 - Journal of Multivariate Analysis
   
 - Computational Statistics and Data Analysis
+
+- Statistics in Medicine
   
 - Journal of Statistical Computation and Simulation
   
