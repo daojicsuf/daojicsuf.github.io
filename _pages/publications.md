@@ -17,7 +17,7 @@ author_profile: true
 
 **Selected Manuscripts**  
 
- - Wu, J., Zhang, B., Li, D., and Zheng, Z. (2025). Simultaneous Heterogeneous and Reduced-Rank Learning for Multivariate Response Regression. 
+ - Wu, J., Zhang, B., Li, D., and Zheng, Z. (2025). Simultaneous Heterogeneity and Reduced-Rank Learning for Multivariate Response Regression. 
      Manuscript, Revision submitted.
 
  - Zhang, F., Fan, C., and Li, D. (2024). Measuring Forecast Accuracy for Expectile Regression with Possible Model Misspecification. 
