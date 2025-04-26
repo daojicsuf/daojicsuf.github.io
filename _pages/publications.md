@@ -17,11 +17,11 @@ author_profile: true
 
 **Selected Manuscripts**  
 
+ - Wu, J., Zhang, B., Li, D., and Zheng, Z. (2025). Simultaneous Heterogeneous and Reduced-Rank Learning for Multivariate Response Regression. 
+     Manuscript, Revision submitted.
+
  - Zhang, F., Fan, C., and Li, D. (2024). Measuring Forecast Accuracy for Expectile Regression with Possible Model Misspecification. 
      Manuscript, Under review.
-
- - Wu, J., Zhang, B., Li, D., and Zheng, Z. (2024). Simultaneous Heterogeneous and Reduced-Rank Learning for Multivariate Response Regression. 
-     Manuscript, Under revision.
 
  - Li, D., Bao, Y., Li, L, and Pan, J. (2023). Semiparametric Estimation of Mean and Variance in Generalized Estimating Equations.	
      Manuscript, 2nd round review.
