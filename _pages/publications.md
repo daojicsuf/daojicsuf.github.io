@@ -17,8 +17,6 @@ author_profile: true
 
 **Selected Manuscripts**  
 
- - Wu, J., Zhang, B., Li, D., and Zheng, Z. (2025). Simultaneous Heterogeneity and Reduced-Rank Learning for Multivariate Response Regression. 
-     Manuscript, Revision submitted.
 
  - Zhang, F., Fan, C., and Li, D. (2024). Measuring Forecast Accuracy for Expectile Regression with Possible Model Misspecification. 
      Manuscript, Under review.
@@ -28,6 +26,9 @@ author_profile: true
 
 
 **Peer-Reviewed Publications** 
+
+ - Wu, J., Zhang, B., Li, D., and Zheng, Z. (2025). Simultaneous Heterogeneity and Reduced-Rank Learning for Multivariate Response Regression. 
+     <i>Journal of Multivariate Analysis</i>, conditionally accepted.
 
 - Li, D., Kong, Y., and Zerom, D. (2025). Nonparametric Screening for Additive Quantile Regression in Ultra-high Dimension.
      <i>Journal of Nonparametric Statistics</i>, 37, 148-168. (published online: 18 June 2024). [\[PDF\]](https://arxiv.org/abs/2311.03769v2)
