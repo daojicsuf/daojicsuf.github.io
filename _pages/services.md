@@ -78,9 +78,9 @@ author_profile: true
 
 - Joint Statistical Meetings (2025)
   
-- International Conference on Econometrics and Statistics (2025, 2024, 2023, 20222, 2021)
+- International Conference on Econometrics and Statistics (2026, 2025, 2024, 2023, 20222, 2021)
 
-- International Chinese Statistical Association (ICSA) Applied Statistics Symposium (2025)
+- International Chinese Statistical Association (ICSA) Applied Statistics Symposium (2026, 2025)
 
 - International Chinese Statistical Association (ICSA) China Conference (2024)
 
