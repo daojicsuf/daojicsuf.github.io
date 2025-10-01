@@ -24,12 +24,12 @@ author_profile: true
 - Statistica Sinica
   
 - Biometrics
+
+- Statistics in Medicine
   
 - Journal of Multivariate Analysis
   
 - Computational Statistics and Data Analysis
-
-- Statistics in Medicine
   
 - Journal of Statistical Computation and Simulation
   
@@ -40,10 +40,14 @@ author_profile: true
 - Statistical Methods in Medical Research
   
 - Statistical Analysis and Data Mining
+
+- Statistics and Computing
   
 - Journal of Statistical Planning and Inference
   
 - Communications in Statistics – Theory and Methods
+
+- Statistics & Probability Letters
   
 - Transactions on Knowledge Discovery from Data (Association for Computing Machinery)
   
