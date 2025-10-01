@@ -9,15 +9,7 @@ author_profile: true
 {% include base_path %}
 
 
-**Editorial Board**  
-
- - 2025-present, [Scientific Reports](https://www.nature.com/srep/), Editorial Board Member.
-
- - 2024-present, [SAGE Open](https://journals.sagepub.com/home/sgo), Associate Editor. 
-
-
-
-**Referee for 47 journals with 91 reviews (excluding reviews of revisions):** 
+**Referee for 50 journals with 99 reviews (excluding reviews of revisions):** 
 
 - Journal of the American Statistical Association
   
