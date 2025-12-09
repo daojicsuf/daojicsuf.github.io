@@ -28,7 +28,7 @@ author_profile: true
 **Peer-Reviewed Publications** 
 
  - Wu, J., Zhang, B., Li, D., and Zheng, Z. (2026). Simultaneous Heterogeneity and Reduced-Rank Learning for Multivariate Response Regression. 
-     <i>Journal of Multivariate Analysis</i>, 213, 105578.(published online: 5 December 2025). [\[PDF\]](https://www.dropbox.com/scl/fi/nhyg36t85s3mbfjmf2yey/SHRR_arXiv.pdf?rlkey=p3k2psiilqz037chh5jmzngje&e=1&dl=0)[\[Journal link\]](https://doi.org/10.1016/j.jmva.2025.105578)[\[Supplementary Material\]](https://ars.els-cdn.com/content/image/1-s2.0-S0047259X25001733-mmc1.pdf)
+     <i>Journal of Multivariate Analysis</i>, 213, 105578.(published online: 5 December 2025). [\[PDF\]](https://arxiv.org/pdf/2512.06514)[\[Journal link\]](https://doi.org/10.1016/j.jmva.2025.105578)[\[Supplementary Material\]](https://ars.els-cdn.com/content/image/1-s2.0-S0047259X25001733-mmc1.pdf)
 
 - Li, D., Kong, Y., and Zerom, D. (2025). Nonparametric Screening for Additive Quantile Regression in Ultra-high Dimension.
      <i>Journal of Nonparametric Statistics</i>, 37, 148-168. (published online: 18 June 2024). [\[PDF\]](https://arxiv.org/abs/2311.03769v2)
