@@ -22,7 +22,7 @@ author_profile: true
      Manuscript, Under review.
 
  - Li, D., Bao, Y., Li, L, and Pan, J. (2023). Semiparametric Estimation of Mean and Variance in Generalized Estimating Equations.	
-     Manuscript
+     Manuscript.
 
 
 **Peer-Reviewed Publications** 
