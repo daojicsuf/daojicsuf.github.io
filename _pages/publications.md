@@ -27,6 +27,9 @@ author_profile: true
 
 **Peer-Reviewed Publications** 
 
+ - Xu, Z., Li, D., and Zheng, Z. (2026). Robust Subgroup Analysis for Heterogeneous Censored Data. 
+     <i>Stat</i>, 15, e70158. [\[PDF\]](https://www.dropbox.com/scl/fi/wpf0xy6lh0sujt8yvod17/RISA_final.pdf?rlkey=mgvo6n3v2lo7pfyq1thgn8b4s&st=tx4jozlp&dl=1)[\[Journal link\]](https://doi.org/10.1002/sta4.70158)[\[Supplementary Material\]](https://onlinelibrary.wiley.com/action/downloadSupplement?doi=10.1002%2Fsta4.70158&file=sta470158-sup-0001_RISA_R1_supp_clean_v3.pdf)
+
  - Wu, J., Zhang, B., Li, D., and Zheng, Z. (2026). Simultaneous Heterogeneity and Reduced-Rank Learning for Multivariate Response Regression. 
      <i>Journal of Multivariate Analysis</i>, 213, 105578.(published online: 5 December 2025). [\[PDF\]](https://arxiv.org/pdf/2512.06514)[\[Journal link\]](https://doi.org/10.1016/j.jmva.2025.105578)[\[Supplementary Material\]](https://ars.els-cdn.com/content/image/1-s2.0-S0047259X25001733-mmc1.pdf)
 
