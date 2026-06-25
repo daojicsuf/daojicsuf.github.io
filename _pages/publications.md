@@ -17,16 +17,18 @@ author_profile: true
 
 **Selected Manuscripts**  
 
- - Li. L., Wu, J., Li, D., Zheng, Z. (2026). SUPER: A tuning-free procedure for subgroup identification. Under review.
+ - Fan, Y., Gao, L., Li, D., and Lv, J. (2026). HSCI: Neyman-orthogonal causal inference under high-dimensional proportional hazards. 
 
- - Xu, Z., Zhao, X., Li, D., and Liao, Q. (2026). An ILUES-based adaptive Gaussian process method for multimodal Bayesian inverse problems. Under review.
+ - Li, L., Wu, J., Li, D., and Zheng, Z. (2026). SUPER: A tuning-free procedure for subgroup identification. 
 
- - Li, D., Bao, Y., Li, L, and Pan, J. (2026). Semiparametric Estimation of Mean and Variance in Generalized Estimating Equations.	
+ - Xu, Z., Zhao, X., Li, D., and Liao, Q. (2026). An ILUES-based adaptive Gaussian process method for multimodal Bayesian inverse problems. 
 
- -  Shao, M., Li, D., Zhang, Y., and Zhao, H. (2025). Sparse Expectile Regression via Broken Adaptive Ridge. Under review.
+ - Li, D., Bao, Y., Li, L, and Pan, J. (2026). Semiparametric Estimation of Mean and Variance in Generalized Estimating Equations. 	
+
+ - Shao, M., Li, D., Zhang, Y., and Zhao, H. (2025). Sparse Expectile Regression via Broken Adaptive Ridge. 
 
  - Zhang, F., Fan, C., and Li, D. (2025). Measuring Forecast Accuracy for Expectile Regression with Possible Model Misspecification. 
-     Under review.
+
 
 
 **Peer-Reviewed Publications** 
