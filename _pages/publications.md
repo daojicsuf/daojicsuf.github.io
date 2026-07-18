@@ -25,14 +25,14 @@ author_profile: true
 
  - Li, D., Bao, Y., Li, L, and Pan, J. (2026). Semiparametric Estimation of Mean and Variance in Generalized Estimating Equations. 	
 
- - Shao, M., Li, D., Zhang, Y., and Zhao, H. (2025). Sparse Expectile Regression via Broken Adaptive Ridge. 
-
  - Zhang, F., Fan, C., and Li, D. (2025). Measuring Forecast Accuracy for Expectile Regression with Possible Model Misspecification. 
 
 
 
 **Peer-Reviewed Publications** 
 
+ - Shao, M., Li, D., Zhang, Y., and Zhao, H. (2026). Sparse Expectile Regression via Broken Adaptive Ridge. Information Sciences, 123910. Available online 17 July 2026. [\[Journal link\]](https://doi.org/10.1016/j.ins.2026.123910)[\[Supplementary Material\]](https://www.dropbox.com/scl/fi/coprlunsmznylxo0u22ls/2026-PER_BAR_R2_supp.pdf?rlkey=y3bhxeiiqq38pxcoc0f7gzb37&st=9akjyf4v&dl=0)
+  
  - Xu, Z., Li, D., and Zheng, Z. (2026). Robust Subgroup Analysis for Heterogeneous Censored Data. 
      <i>Stat</i>, 15, e70158. [\[PDF\]](https://www.dropbox.com/scl/fi/wpf0xy6lh0sujt8yvod17/RISA_final.pdf?rlkey=mgvo6n3v2lo7pfyq1thgn8b4s&st=tx4jozlp&dl=1)[\[Journal link\]](https://doi.org/10.1002/sta4.70158)[\[Supplementary Material\]](https://onlinelibrary.wiley.com/action/downloadSupplement?doi=10.1002%2Fsta4.70158&file=sta470158-sup-0001_RISA_R1_supp_clean_v3.pdf)
 
