@@ -17,7 +17,7 @@ author_profile: true
 
 **Selected Manuscripts**  
 
- - Fan, Y., Gao, L., Li, D., and Lv, J. (2026). HSCI: Neyman-orthogonal causal inference under high-dimensional proportional hazards. 
+ - Fan, Y., Gao, L., Li, D., and Lv, J. (2026). HSCI: Neyman-orthogonal causal inference under high-dimensional proportional hazards. [\[arXiv\]](https://arxiv.org/abs/2606.14132)
 
  - Li, L., Wu, J., Li, D., and Zheng, Z. (2026). SUPER: A tuning-free procedure for subgroup identification. 
 
