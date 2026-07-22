@@ -31,7 +31,7 @@ author_profile: true
 
 **Peer-Reviewed Publications** 
 
- - Shao, M., Li, D., Zhang, Y., and Zhao, H. (2026). Sparse Expectile Regression via Broken Adaptive Ridge. Information Sciences, 123910. Available online 17 July 2026. [\[Journal link\]](https://doi.org/10.1016/j.ins.2026.123910)[\[Supplementary Material\]](https://www.dropbox.com/scl/fi/coprlunsmznylxo0u22ls/2026-PER_BAR_R2_supp.pdf?rlkey=y3bhxeiiqq38pxcoc0f7gzb37&st=9akjyf4v&dl=0)
+ - Shao, M., Li, D., Zhang, Y., and Zhao, H. (2026). Sparse Expectile Regression via Broken Adaptive Ridge. Information Sciences, 757, 123910. (Available online 17 July 2026). [\[PDF\]](https://www.dropbox.com/scl/fi/v4fycheruc5elfu02oxhu/2026-PER_BAR_final.pdf?rlkey=o1nqa89ffplq4d3ib8m8dwoaw&st=0z28xc11&e=1&dl=0)[\[Journal link\]](https://doi.org/10.1016/j.ins.2026.123910)[\[Supplementary Material\]](https://ars.els-cdn.com/content/image/1-s2.0-S0020025526008418-mmc1.pdf)
   
  - Xu, Z., Li, D., and Zheng, Z. (2026). Robust Subgroup Analysis for Heterogeneous Censored Data. 
      <i>Stat</i>, 15, e70158. [\[PDF\]](https://www.dropbox.com/scl/fi/wpf0xy6lh0sujt8yvod17/RISA_final.pdf?rlkey=mgvo6n3v2lo7pfyq1thgn8b4s&st=tx4jozlp&dl=1)[\[Journal link\]](https://doi.org/10.1002/sta4.70158)[\[Supplementary Material\]](https://onlinelibrary.wiley.com/action/downloadSupplement?doi=10.1002%2Fsta4.70158&file=sta470158-sup-0001_RISA_R1_supp_clean_v3.pdf)
