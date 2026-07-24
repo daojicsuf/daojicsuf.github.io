@@ -31,6 +31,8 @@ author_profile: true
 
 **Peer-Reviewed Publications** 
 
+ - Yue, L., Li, D., Cai, X., and Li, G. (2026).Quantile adaptive feature screening for ultra-high dimensional longitudinal heterogeneous data. Computational Statistics, 41, 109. [\[PDF(view-only)\]](https://rdcu.be/fvHNL)[\[Journal link\]](https://doi.org/10.1007/s00180-026-01789-5)
+ 
  - Shao, M., Li, D., Zhang, Y., and Zhao, H. (2026). Sparse Expectile Regression via Broken Adaptive Ridge. Information Sciences, 757, 123910. (Available online 17 July 2026). [\[PDF\]](https://www.dropbox.com/scl/fi/v4fycheruc5elfu02oxhu/2026-PER_BAR_final.pdf?rlkey=o1nqa89ffplq4d3ib8m8dwoaw&st=0z28xc11&e=1&dl=0)[\[Journal link\]](https://doi.org/10.1016/j.ins.2026.123910)[\[Supplementary Material\]](https://ars.els-cdn.com/content/image/1-s2.0-S0020025526008418-mmc1.pdf)
   
  - Xu, Z., Li, D., and Zheng, Z. (2026). Robust Subgroup Analysis for Heterogeneous Censored Data. 
