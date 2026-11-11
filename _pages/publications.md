@@ -31,7 +31,7 @@ author_profile: true
 
  - Zhang, F., Fan, C., and Li, D. (2026). Measuring Forecast Accuracy for Expectile Regression with Possible Model Misspecification. <i>Journal of Nonparametric Statistics</i>, accepted.
    
- - Yue, L., Li, D., Cai, X., and Li, G. (2026). Quantile adaptive feature screening for ultra-high dimensional longitudinal heterogeneous data. Computational Statistics, 41, 109. [\[PDF(view-only)\]](https://urldefense.com/v3/__https://rdcu.be/fvHNL__;!!GF3VTAzAMGBM8A!yDdUUi7RL1I9N5uh5aFoYfyGLXLl_vtV62RU8j0IeuhOKGDmao9-QNkN2mvOJaKpQ2uWgGwJEhFMOLJRTFRSKOI$)[\[Journal link\]](https://link.springer.com/article/10.1007/s00180-026-01789-5)
+ - Yue, L., Li, D., Cai, X., and Li, G. (2026). Quantile adaptive feature screening for ultra-high dimensional longitudinal heterogeneous data. Computational Statistics, 41, 109. [\[PDF\]](https://urldefense.com/v3/__https://rdcu.be/fvHNL__;!!GF3VTAzAMGBM8A!yDdUUi7RL1I9N5uh5aFoYfyGLXLl_vtV62RU8j0IeuhOKGDmao9-QNkN2mvOJaKpQ2uWgGwJEhFMOLJRTFRSKOI$)[\[Journal link\]](https://link.springer.com/article/10.1007/s00180-026-01789-5)
  
  - Shao, M., Li, D., Zhang, Y., and Zhao, H. (2026). Sparse Expectile Regression via Broken Adaptive Ridge. Information Sciences, 757, 123910. (Available online 17 July 2026). [\[PDF\]](https://www.dropbox.com/scl/fi/v4fycheruc5elfu02oxhu/2026-PER_BAR_final.pdf?rlkey=o1nqa89ffplq4d3ib8m8dwoaw&st=0z28xc11&e=1&dl=0)[\[Journal link\]](https://doi.org/10.1016/j.ins.2026.123910)[\[Supplementary Material\]](https://ars.els-cdn.com/content/image/1-s2.0-S0020025526008418-mmc1.pdf)
   
