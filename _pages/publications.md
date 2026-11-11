@@ -29,7 +29,7 @@ author_profile: true
 
 **Peer-Reviewed Publications** 
 
- - Zhang, F., Fan, C., and Li, D. (2025). Measuring Forecast Accuracy for Expectile Regression with Possible Model Misspecification. <i>Journal of Nonparametric Statistics</i>, accepted.
+ - Zhang, F., Fan, C., and Li, D. (2026). Measuring Forecast Accuracy for Expectile Regression with Possible Model Misspecification. <i>Journal of Nonparametric Statistics</i>, accepted.
    
  - Yue, L., Li, D., Cai, X., and Li, G. (2026).Quantile adaptive feature screening for ultra-high dimensional longitudinal heterogeneous data. Computational Statistics, 41, 109. [PDF(view-only)][Journal link]
  
